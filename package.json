@@ -1,0 +1,25 @@
+{
+  "name": "list-of-new-books-by-authors",
+  "version": "1.0.0",
+  "description": "작가의 신간 리스트",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel index.html -p 3000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sebride4988/list-of-new-books-by-authors.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sebride4988/list-of-new-books-by-authors/issues"
+  },
+  "homepage": "https://github.com/sebride4988/list-of-new-books-by-authors#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4",
+    "typescript": "^4.1.3"
+  }
+}
